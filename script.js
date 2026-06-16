@@ -167,4 +167,3 @@
   loadHistory();
   inputEl.focus();
 })();
-
